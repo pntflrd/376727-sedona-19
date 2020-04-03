@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анна](https://up.htmlacademy.ru/adaptive/19/user/376727).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Бабиля](https://htmlacademy.ru/profile/id416099).
 
 ---
 
